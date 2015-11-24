@@ -9,7 +9,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//
+//sdsd
 @Entity
 @Table(name = "shops")
 public class Shop {	
